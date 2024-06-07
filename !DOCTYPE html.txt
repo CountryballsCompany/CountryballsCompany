@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countryballs Company</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+            color: #333;
+        }
+        header {
+            background-color: #ff8c00;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            color: #fff;
+        }
+        nav {
+            background-color: #6a5acd;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Countryballs Company</h1>
+        <img src="CountryBalls Company (Logo 1) - Leah.png" alt="Logo de Countryballs Company">
+    </header>
+    <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#sobre-nosotros">Sobre Nosotros</a>
+        <a href="#productos">Productos</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+    <section id="inicio">
+        <h2>Bienvenido a Countryballs Company</h2>
+        <p>Somos una empresa dedicada a ofrecer manualidades, dibujos, comics y más para divertirnos y entretener al público.</p>
+        <p>¡Descubre todo lo que tenemos para ti!</p>
+    </section>
+    <section id="sobre-nosotros">
+        <h2>Sobre Nosotros</h2>
+        <p>En Countryballs Company nos apasiona la creatividad y la diversión. Nuestro objetivo es proporcionar productos y contenidos que te inspiren y entretengan.</p>
+    </section>
+    <section id="productos">
+        <h2>Productos</h2>
+        <p>Destacamos nuestras increíbles manualidades. ¡Encuentra kits, tutoriales y más para dejar volar tu imaginación!</p>
+    </section>
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Si tienes alguna pregunta o problema, por favor envíanos un correo electrónico a: countryballsco.mod@hotmail.com</p>
+    </section>
+    <footer>
+        <p>© 2024 Countryballs Company. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
